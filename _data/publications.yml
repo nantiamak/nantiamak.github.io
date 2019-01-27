@@ -1,0 +1,22 @@
+- title: Modelling Machine Learning Algorithms on Relational Data with Datalog
+  link: /assets/papers/deem2018.pdf
+  authors: Nantia Makrynioti, Nikolaos Vasiloglou, Emir Pasalic and Vasilis Vassalos
+  forum: 2nd Workshop on Data Management for End-to-End Machine Learning (DEEM), in conjunction with SIGMOD 2018
+- title: "PaloPro: A platform for knowledge extraction from big social data and the news"
+  link: /assets/papers/ijbdi2017.pdf
+  authors: Nantia Makrynioti, Andreas Grivas, Christos Sardianos, Nikos Tsirakis, Iraklis Varlamis, Vasilis Vassalos, Vassilis Poulopoulos and Panagiotis Tsantilas
+  forum: International Journal of Big Data Intelligence, Volume 4, Number 1, 2017
+- title: Towards an Analytics Query Engine
+  link: /assets/papers/medal2016.pdf
+  authors: Nantia Makrynioti and Vasilis Vassalos
+  forum: International Workshop on Multi-Engine Data AnaLytics (MEDAL), in conjuction with EDBT 2016
+- title: "Sentiment Extraction from Tweets: Multilingual Challenges"
+  link: /assets/papers/dawak2015.pdf
+  authors: Nantia Makrynioti and Vasilis Vassalos
+  forum: International Conference on Big Data Analytics and Knowledge Discovery (DaWaK) 2015
+- title: "nlp.cs.aueb.gr: Two Stage Sentiment Analysis"
+  link: /assets/papers/semeval2013.pdf
+  authors: Prodromos Malakasiotis, Rafael Michael Karampatsis, Konstantina Makrynioti and John Pavlopoulos
+  forum: International Workshop on Semantic Evaluation (SemEval), in conjunction with NAACL, 2013
+
+

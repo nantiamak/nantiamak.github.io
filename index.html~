@@ -1,0 +1,8 @@
+---
+layout: default
+title: Home
+---
+<div class="home">
+  <p>I am a PhD student at the Athens University of Economics and Business</p>
+  <img src="/doukas.jpeg">
+</div>

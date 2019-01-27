@@ -1,0 +1,20 @@
+---
+layout: default
+title: Publications
+---
+# Publications
+
+<div>
+	<ul id="publication-list">
+	    {% for item in site.data.publications %}
+	       <li class="pub-item">
+			<strong>{{ item.title }}</strong>
+			<a href="{{ item.link }}"><img src="/assets/images/download.svg" class="download-image"></a>
+	    		<br/>
+	    		{{ item.authors }}
+	    		<br/>
+	    		{{ item.forum }}
+            	</li>
+		{% endfor %}
+        </ul>
+</div>

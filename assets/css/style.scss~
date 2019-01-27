@@ -1,0 +1,60 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+#summary {
+    float: left;
+    width:63%;
+    margin-right:2%;
+	  
+}
+
+#contactAndPhoto {
+    float:right;
+    width:35%;
+}
+
+#myPicture {
+   padding:1px;
+   border:1px solid #424248;
+   background-color:#fdfdfd;
+}
+
+
+
+.contact-detail {
+    padding-left: 6px;
+    margin-bottom: 10px;
+    margin-top:5px;
+}
+
+.footer-span {
+    font-size: 12px;
+    color: #828282;
+    display: inline-block;
+}
+
+#footer-wrapper {
+    text-align: center;
+}
+
+.detail-element {
+    color: #828282;
+    margin-top:20px;
+}
+
+.social-media-list {
+    padding-left:6px;
+    margin-top:10px;
+}
+
+#publication-list {
+    list-style-type:square;
+}
+
+.download-image {
+    filter: invert(35%) sepia(100%) saturate(1567%) hue-rotate(200deg) brightness(93%) contrast(90%);
+    width: 35px;
+    height: 20px;
+}
