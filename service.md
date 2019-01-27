@@ -4,7 +4,7 @@ title: Service
 ---
 
 <div>
-<h2>Scientific Community Service</h2>
+<h1>Scientific Community Service</h1>
 <h3>Program Committee Member</h3>
 <ul>
 	{% for item in site.data.program_committee_members %}

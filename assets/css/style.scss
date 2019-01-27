@@ -5,20 +5,21 @@
 
 #summary {
     float: left;
-    width:63%;
-    margin-right:2%;
+    width:60%;
+    margin-right:10.5%;
 	  
 }
 
 #contactAndPhoto {
     float:right;
-    width:35%;
+    width:29.5%;
 }
 
 #myPicture {
    padding:1px;
-   border:1px solid #424248;
+   border-radius:30px;
    background-color:#fdfdfd;
+   max-width: 225px;
 }
 
 
@@ -86,4 +87,15 @@
 
 .pub-item {
     margin-bottom: 15px;
+}
+
+#address-div {
+    float: right;
+    width: 88%;
+    margin-right: 2%;
+}
+
+#pin-div {
+    float: left;
+    width: 10%;
 }

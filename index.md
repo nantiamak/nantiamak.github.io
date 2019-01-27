@@ -8,7 +8,7 @@ layout: default
 </p>
 
 <p>
-I hold a BSc in Computer Science from the <a href="http://www.uoi.gr/">University of Ioannina</a> and a MSc in Information Systems from my current University. You can find my (possibly outdated) CV <a href="#">here</a>.
+I hold a BSc in Computer Science from the <a href="http://www.uoi.gr/">University of Ioannina</a> and a MSc in Information Systems from my current University. You can find my (possibly outdated) CV <a href="/assets/papers/Nantia_Makrynioti_CV.pdf">here</a>.
 </p>
 </div>
 <div id="contactAndPhoto">
@@ -21,13 +21,17 @@ I hold a BSc in Computer Science from the <a href="http://www.uoi.gr/">Universit
 	      {%- endif -%}
           </li>
 	  <li class="detail-element">
+	      <div id="pin-div">
 	      <img src="/assets/images/address.svg" id="pin-image">
+	      </div>
 	      {%- if site.address -%}
+	      <div id="address-div">
 	      <span>{{ site.office }}</span>
 	      <br>
 	      <span>{{ site.address }}</span>
 	      <br>
-	      <span>{{ site.city_country }}</span>
+	      <span>{{ site.city_country }}</span></div>
+	      <div style="clear: both;"></div>
 	      {%- endif -%}
 	  </li>
 	</ul>
