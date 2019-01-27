@@ -28,6 +28,7 @@ twitter_username: nantia_mak
 linkedin_username: Nantia Makrynioti
 
 # Build settings
+name: Nantia Makrynioti
 markdown: kramdown
 theme: minima
 plugins:
