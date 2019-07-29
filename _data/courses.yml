@@ -1,11 +1,14 @@
+- name: Databases (undergraduate)
+  period: Spring semester 2019
+
 - name: Web Application Development (undergraduate)
-  period: Spring semester (2017, 2018)
+  period: Spring semester 2018
 
 - name: Theory and Fundamentals of Database Systems (graduate)
   period: Fall semester 2017/2018
 
 - name: Introduction to Computer Programming (undergraduate)
-  period: Fall semester (2013/2014, 2014/2015, 2015/2016, 2016/2017)
+  period: Fall semester 2013/2014, 2014/2015, 2015/2016, 2016/2017
 
 - name: Design and Analysis of Algorithms (undergraduate)
   period: Spring semester 2014
