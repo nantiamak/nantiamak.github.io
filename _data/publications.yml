@@ -3,9 +3,9 @@
   authors: Nantia Makrynioti, Ruy Ley-Wild and Vasilis Vassalos
   forum: arXiv preprint
 - title: "Declarative Data Analytics: a Survey"
-  link: https://arxiv.org/abs/1902.01304
+  link: /assets/papers/survey_paper_tkde.pdf
   authors: Nantia Makrynioti and Vasilis Vassalos
-  forum: arXiv preprint
+  forum: IEEE Transactions of Knowledge and Data Engineering (TKDE) (to appear)
 - title: Modelling Machine Learning Algorithms on Relational Data with Datalog
   link: /assets/papers/deem2018.pdf
   authors: Nantia Makrynioti, Nikolaos Vasiloglou, Emir Pasalic and Vasilis Vassalos

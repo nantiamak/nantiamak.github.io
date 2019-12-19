@@ -3,6 +3,16 @@
 
 @import "{{ site.theme }}";
 
+#news {
+	color: #E94848;
+	float:left;
+	width:60%;
+	font-style:italic;
+	font-size:18px;
+	margin-right:10.5%;
+	margin-bottom:3.5%;
+}
+
 #summary {
     float: left;
     width:60%;

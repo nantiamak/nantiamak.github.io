@@ -1,8 +1,13 @@
 ---
 layout: default
 ---
+
+<div id="news">
+News: I'm excited to join the Database Architectures research group of CWI as a postdoc in January 2020!
+</div>
+
 <div id="summary">
-     <p>I am a PhD student in Computer Science at the <a href="https://www.aueb.gr/en">Athens University of Economics and Business</a> supervised by Professor Vasilis Vassalos. My research focuses on integrating machine learning functionality with relational databases, which aligns with my interests in declarative machine learning (a paradigm well-known from databases applied on the area of machine learning). In the context of this effort, I have also worked with the <a href="https://developer.logicblox.com/">LogicBlox</a> team (later acquired by <a href="https://www.infor.com/">Infor</a>) on expressing and optimising machine learning problems using the company's relational platform.</p>
+     <p>I successfully defended my PhD at the Department of Informatics of the <a href="https://www.aueb.gr/en">Athens University of Economics and Business</a> on December 2019, supervised by Professor Vasilis Vassalos. My research focuses on integrating machine learning functionality with relational databases, which aligns with my interests in declarative machine learning (a paradigm well-known from databases applied on the area of machine learning). In the context of this effort, I have also worked with the <a href="https://developer.logicblox.com/">LogicBlox</a> team (later acquired by <a href="https://www.infor.com/">Infor</a>) on expressing and optimising machine learning problems using the company's relational platform.</p>
 
 <p>In the past I did research on the interesting topic of sentiment analysis, which resulted in the development of a related component for a commercialised platform.
 </p>
@@ -12,7 +17,7 @@ I hold a BSc in Computer Science from the <a href="http://www.uoi.gr/">Universit
 </p>
 </div>
 <div id="contactAndPhoto">
-     <img id="myPicture" src="/assets/images/nantia3.png">
+     <img id="myPicture" src="/assets/images/nantia_japan.jpg">
       <ul class="contact-list">
       	  <li class="detail-element">
 	      <img src="/assets/images/envelope.svg" id="envelope-image">
