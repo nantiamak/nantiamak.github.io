@@ -7,7 +7,9 @@ News: I'm excited to join the Database Architectures research group of CWI as a 
 </div>
 
 <div id="summary">
-     <p>I successfully defended my PhD at the Department of Informatics of the <a href="https://www.aueb.gr/en">Athens University of Economics and Business</a> on December 2019, supervised by Professor Vasilis Vassalos. My research focuses on integrating machine learning functionality with relational databases, which aligns with my interests in declarative machine learning (a paradigm well-known from databases applied on the area of machine learning). In the context of this effort, I have also worked with the <a href="https://developer.logicblox.com/">LogicBlox</a> team (later acquired by <a href="https://www.infor.com/">Infor</a>) on expressing and optimising machine learning problems using the company's relational platform.</p>
+     <p>I am a postdoc researcher with the <a href="">Database Architectures group at CWI (Centrum Wiskunde & Informatica)</a> working on the area of exploratory data analysis.
+
+Prior to that I earned my PhD in Computer Science from the <a href="https://www.aueb.gr/en">Athens University of Economics and Business</a>, supervised by Professor Vasilis Vassalos. My PhD thesis focused on integrating machine learning (ML) functionality with relational databases and expressing ML algorithms in declarative programming languages. In the context of this effort, I have also worked with the <a href="https://developer.logicblox.com/">LogicBlox</a> team (later acquired by <a href="https://www.infor.com/">Infor</a>) on expressing and optimising machine learning problems using the company's relational platform.</p>
 
 <p>In the past I did research on the interesting topic of sentiment analysis, which resulted in the development of a related component for a commercialised platform.
 </p>
