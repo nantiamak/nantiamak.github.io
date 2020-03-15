@@ -2,10 +2,6 @@
 layout: default
 ---
 
-<div id="news">
-News: I'm excited to join the Database Architectures research group of CWI as a postdoc in January 2020!
-</div>
-
 <div id="summary">
      <p>I am a postdoc researcher with the <a href="">Database Architectures group at CWI (Centrum Wiskunde & Informatica)</a> working on the area of exploratory data analysis.
 
