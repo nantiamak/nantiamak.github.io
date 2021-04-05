@@ -1,6 +1,7 @@
 - title: "Progressive Join Algorithms Considering User Preference"
+  link: /assets/papers/cidr2021.pdf
   authors: Mengsu Ding, Shimin Chen, Nantia Makrynioti, Stefan Manegold
-  forum: CIDR 2021 (to appear)
+  forum: CIDR 2021
 - title: "sql4ml A declarative end-to-end workflow for machine learning"
   link: https://arxiv.org/abs/1907.12415
   authors: Nantia Makrynioti, Ruy Ley-Wild and Vasilis Vassalos
