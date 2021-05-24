@@ -1,11 +1,10 @@
+- title: "Machine Learning in SQL by Translation to TensorFlow"
+  authors: Nantia Makrynioti, Ruy Ley-Wild and Vasilis Vassalos
+  forum: 5th Workshop on Data Management for End-to-End Machine Learning (DEEM), in conjunction with SIGMOD 2021
 - title: "Progressive Join Algorithms Considering User Preference"
   link: /assets/papers/cidr2021.pdf
   authors: Mengsu Ding, Shimin Chen, Nantia Makrynioti, Stefan Manegold
   forum: CIDR 2021
-- title: "sql4ml A declarative end-to-end workflow for machine learning"
-  link: https://arxiv.org/abs/1907.12415
-  authors: Nantia Makrynioti, Ruy Ley-Wild and Vasilis Vassalos
-  forum: arXiv preprint
 - title: "Declarative Data Analytics: a Survey"
   link: /assets/papers/survey_paper_tkde.pdf
   authors: Nantia Makrynioti and Vasilis Vassalos
