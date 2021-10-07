@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div id="news" style="font">
-I'm co-organizing DBAI@NeurIPS2021 - Workshop on Databases and AI. Check out our exciting program at <a href="https://dbai-workshop.github.io/">
+I'm co-organizing DBAI - Workshop on Databases and AI - @NeurIPS2021. Check out our exciting program at <a href="https://dbai-workshop.github.io/">https://dbai-workshop.github.io/</a>
 </div>
 
 <div id="summary">
