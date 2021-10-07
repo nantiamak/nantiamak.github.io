@@ -2,6 +2,10 @@
 layout: default
 ---
 
+<div id="news" style="font">
+I'm co-organizing DBAI @ NeurIPS2021 - Workshop on Databases and AI. Check our exciting program at https://dbai-workshop.github.io/
+</div>
+
 <div id="summary">
      <p>I am a postdoc researcher with the <a href="https://www.cwi.nl/research/groups/database-architectures">Database Architectures group at CWI (Centrum Wiskunde & Informatica)</a> working on the area of exploratory data analysis.
 

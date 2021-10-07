@@ -1,4 +1,5 @@
 - title: "Machine Learning in SQL by Translation to TensorFlow"
+  link: /assets/papers/deem2021.pdf
   authors: Nantia Makrynioti, Ruy Ley-Wild and Vasilis Vassalos
   forum: 5th Workshop on Data Management for End-to-End Machine Learning (DEEM), in conjunction with SIGMOD 2021
 - title: "Progressive Join Algorithms Considering User Preference"
