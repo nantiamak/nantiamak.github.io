@@ -8,7 +8,7 @@ Prior to that, I was a postdoc researcher with the <a href="https://www.cwi.nl/r
 <p>I earned my PhD in Computer Science from the <a href="https://www.aueb.gr/en">Athens University of Economics and Business</a>, supervised by Professor Vasilis Vassalos. My PhD thesis focused on integrating machine learning (ML) functionality with relational databases and expressing ML algorithms in declarative programming languages. In the context of this effort, I have also worked with the <a href="https://developer.logicblox.com/">LogicBlox</a> team (later acquired by <a href="https://www.infor.com/">Infor</a>) on expressing and optimising machine learning problems using the company's relational platform.</p>
 
 <p>
-I hold a BSc in Computer Science from the <a href="http://www.uoi.gr/">University of Ioannina</a> and a MSc in Information Systems from Athens University of Economics and Business. You can find my (possibly outdated) CV <a href="/assets/papers/Nantia_Makrynioti_CV.pdf">here</a>.
+I hold a BSc in Computer Science from the <a href="http://www.uoi.gr/">University of Ioannina</a> and a MSc in Information Systems from Athens University of Economics and Business.
 </p>
 </div>
 <div id="contactAndPhoto">
